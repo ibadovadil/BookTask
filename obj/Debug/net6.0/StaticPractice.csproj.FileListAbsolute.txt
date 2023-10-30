@@ -1,0 +1,14 @@
+C:\Users\Birinci Novbe\Desktop\StaticPractice\bin\Debug\net6.0\StaticPractice.exe
+C:\Users\Birinci Novbe\Desktop\StaticPractice\bin\Debug\net6.0\StaticPractice.deps.json
+C:\Users\Birinci Novbe\Desktop\StaticPractice\bin\Debug\net6.0\StaticPractice.runtimeconfig.json
+C:\Users\Birinci Novbe\Desktop\StaticPractice\bin\Debug\net6.0\StaticPractice.dll
+C:\Users\Birinci Novbe\Desktop\StaticPractice\bin\Debug\net6.0\StaticPractice.pdb
+C:\Users\Birinci Novbe\Desktop\StaticPractice\obj\Debug\net6.0\StaticPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Birinci Novbe\Desktop\StaticPractice\obj\Debug\net6.0\StaticPractice.AssemblyInfoInputs.cache
+C:\Users\Birinci Novbe\Desktop\StaticPractice\obj\Debug\net6.0\StaticPractice.AssemblyInfo.cs
+C:\Users\Birinci Novbe\Desktop\StaticPractice\obj\Debug\net6.0\StaticPractice.csproj.CoreCompileInputs.cache
+C:\Users\Birinci Novbe\Desktop\StaticPractice\obj\Debug\net6.0\StaticPractice.dll
+C:\Users\Birinci Novbe\Desktop\StaticPractice\obj\Debug\net6.0\refint\StaticPractice.dll
+C:\Users\Birinci Novbe\Desktop\StaticPractice\obj\Debug\net6.0\StaticPractice.pdb
+C:\Users\Birinci Novbe\Desktop\StaticPractice\obj\Debug\net6.0\StaticPractice.genruntimeconfig.cache
+C:\Users\Birinci Novbe\Desktop\StaticPractice\obj\Debug\net6.0\ref\StaticPractice.dll
